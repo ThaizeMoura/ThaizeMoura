@@ -5,9 +5,9 @@ ThaizeMoura/ThaizeMoura is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
  <div>
-   <a href="https://github.com/ThaizMilGrau">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThaizMilGrau&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaizMilGrau&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/ThaizeMoura">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThaizeMoura&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaizeMoura&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
